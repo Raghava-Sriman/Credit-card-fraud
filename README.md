@@ -27,12 +27,7 @@ Credit card fraud is a significant issue in the financial industry. Detecting fr
 - Use of balanced class weights to handle class imbalance
 - Feature scaling for improved Logistic Regression performance
 
-
-## Installation
-
-1. Clone the repository:
-   
-   git clone https://github.com/Sambhavi-Roy/Credit-Card-Fraud-detection.git
+clone the repo using git clone https://github.com/Raghava-Sriman/Credit-card-fraud.git
 
 
 ## Usage
